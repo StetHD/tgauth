@@ -64,6 +64,10 @@ Configuration
 
 Step 1 :
 
+Template settings:
+
+Download the tglogin.html from github put in to your template dir : https://github.com/renjith-tring/tgauth/blob/master/tgauth/templates/tglogin.html
+
 Settings.py 
 
 TGAUTH_TOKEN = "*****************************************************" // token for your bot
